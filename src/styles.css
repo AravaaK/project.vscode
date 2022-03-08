@@ -1,0 +1,108 @@
+body {
+  background-image: url("Media/Appexel.jpg");
+  background-color: transparent;
+  margin-top: 90px;
+}
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  font-size: 38px;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  padding-top: 0px;
+  padding-bottom: 0;
+  margin: 0px;
+  color: whitesmoke;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-size: 22px;
+  padding-bottom: 30px;
+}
+h3 {
+  font-size: 36px;
+  padding-bottom: 50px;
+}
+form {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 26px;
+}
+button {
+  box-shadow: 5px 5px 10px #b3b3b9;
+  box-shadow: transparent;
+  border-radius: 4px;
+  color: black;
+  font-size: 26px;
+  margin-left: 0 auto;
+}
+.container {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.form-group {
+  font-size: 18px;
+  padding-top: 50px;
+  padding-bottom: 200px;
+  padding: 50px 30px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  max-width: 150px;
+}
+.button {
+  box-shadow: 5px 5px 10px #b3b3b9;
+  box-shadow: transparent;
+  border-radius: 4px;
+  color: black;
+}
+.button:hover {
+  transition: all 200ms ease-in-out;
+  background-color: #f5eeea;
+  color: black;
+}
+.temp {
+  text-align: center;
+  font-size: 36px;
+}
+.degrees {
+  font-size: 14px;
+  position: relative;
+  top: -16px;
+  text-decoration: none;
+}
+.measures {
+  color: whitesmoke;
+  position: fixed;
+  font-size: 20px;
+  text-align: left;
+  list-style: none;
+  top: 0;
+  margin-right: 0;
+  padding-top: 100px;
+  margin-right: 400px;
+}
+.row {
+  padding-top: 45px;
+  line-height: 50px;
+  list-style: none;
+  font-weight: normal;
+  text-align: center;
+  font-size: 22px;
+  font-family: "Shizuru", cursive;
+  margin-right: 70px;
+  margin-top: 80px;
+}
+.units {
+  font-weight: normal;
+}
+.design {
+  border: 1px solid whitesmoke;
+  margin: 15px 10px;
+  padding: 30px 10px;
+  border-radius: 6px;
+}
